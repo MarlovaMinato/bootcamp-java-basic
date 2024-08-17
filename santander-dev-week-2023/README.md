@@ -3,15 +3,19 @@
 RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 
 ## Principais Tecnologias
- - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
- - **Spring Boot 3**: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
- - **Spring Data JPA**: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
- - **OpenAPI (Swagger)**: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
+ - **Java 17**: Foi utilizado a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
+ - **Spring Boot 3**: Foi trabalhado com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
+ - **Spring Data JPA**: Foi explorado como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
+ - **OpenAPI (Swagger)**: Foi criado uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
  - **Railway**: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
 
 ## [Link do Figma](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
 
 O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.
+
+## Descrição do Uso do Mermaid para Diagrama de Classes
+
+O Mermaid é uma ferramenta que permite criar diagramas e gráficos a partir de texto simples. No exemplo abaixo, foi utilizado o Mermaid para criar um diagrama de classes para um domínio de API. O diagrama de classes representa a estrutura e os relacionamentos entre as principais entidades do sistema.
 
 ## Diagrama de Classes (Domínio da API)
 
